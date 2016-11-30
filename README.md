@@ -28,4 +28,4 @@ URL：[DocMan](http://www.docman.org)
 
 ## 微信群聊
 
-![微信群](http://ww1.sinaimg.cn/large/005Bpb8ijw1faa33gguxyj30iq0owmyr.jpg) 
+![微信群](http://ww4.sinaimg.cn/mw690/005Bpb8ijw1faa3bh1nzaj30iq0owmyr.jpg) 
