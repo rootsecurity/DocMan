@@ -25,3 +25,7 @@ URL：[DocMan](http://www.docman.org)
 > 缺什么库安装什么库，推荐 pip 安装
 
 **E-mail:** lauixData@gmail.com
+
+## 微信群聊
+
+![微信群](http://ww1.sinaimg.cn/large/005Bpb8ijw1faa33gguxyj30iq0owmyr.jpg) 
